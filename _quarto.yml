@@ -8,9 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+        text: About Me
       - research.qmd
-      - href: CV.qmd
-        text: CV
+        text: Research
 
 format:
   html:
