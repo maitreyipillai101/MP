@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Maitreyi Pillai is a third year doctoral student of political Science at the University of Texas at Dallas.
+
+```{r}
+1 + 1
+```
