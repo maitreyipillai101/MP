@@ -1,0 +1,13 @@
+---
+title: "research.qmd"
+---
+
+Maitreyi Pillai's research is at the crux of international conflict and human rights. She also views the issues of human rights and conflict from the lens of International Organizations and their role in human rights and conflict.
+
+```{r}
+1 + 1
+```
+
+$$
+\SUM^{a}_[i=1]=
+$$

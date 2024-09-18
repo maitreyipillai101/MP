@@ -1,11 +1,8 @@
 ---
-title: "mywebsite"
+title: "Maitreyi Pillai"
+format: 
+  html:
+    theme: "flatly"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Maitreyi Pillai Political Science UTD.

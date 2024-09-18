@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-Maitreyi Pillai is a third year doctoral student of political Science at the University of Texas at Dallas.
-
-```{r}
-1 + 1
-```
+Maitreyi Pillai is a third year doctoral student of political Science at the University of Texas at Dallas. Her research interests lie at the intersection of International Conflict and Human Rights. Especially the interaction of both these concepts with international organizations adds another dimension of research that interests her.
